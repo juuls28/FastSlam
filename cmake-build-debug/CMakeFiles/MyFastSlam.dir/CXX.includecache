@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/kalman.h
+
+/cygdrive/c/Users/Julius/Documents/HTWK/MyFastSlam/src/kalman.cpp
+kalman.h
+/cygdrive/c/Users/Julius/Documents/HTWK/MyFastSlam/src/kalman.h
+iostream
+-
+
